@@ -170,7 +170,7 @@ __Answer__: The plot is not useful for a number of reasons
 
  + Each dot represents a different manufacturer-model combination that we observe
  in the data. There is no inherent hierarchy so this is just a nominal scale.
- + As there is no interpretable relationship between the points, there is no inside to be gained
+ + As there is no interpretable relationship between the points, there is no insight to be gained
 from comparing positions (which is the very reason for a scatterplot).
  + Some of the data is hidden as some manufacturer-model combinations appear
  more than once in the data (e.g. `audi a4`).
