@@ -154,7 +154,7 @@ ggplot(mpg, aes(cty, hwy)) +
     Do you have any concerns about drawing conclusions from that plot?
     
 __Answer__: There is a clear linear relationship which is not surprising as both
-variables measure fuel economy. Hence, the there is not much inside to be gained
+variables measure fuel economy. Hence, the there is not much insight to be gained
 except that cars which are fuel efficient on a highway are also fuel efficient in
 cities. This relationship is probably a function of speed.
 
